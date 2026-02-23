@@ -1,2 +1,2 @@
 # MyFirstAPI
-alex is 
+this repository is my first api
